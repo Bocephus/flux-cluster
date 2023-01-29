@@ -21,4 +21,4 @@ jobs:
           source_repo_path: onedr0p/flux-cluster-template
           upstream_branch: main # defaults to main
           # pr_labels: <label1>,<label2>[,...] # optional, no default
-          is_dry_run: true
+          is_dry_run: false
